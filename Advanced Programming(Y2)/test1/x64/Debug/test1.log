@@ -1,0 +1,27 @@
+﻿  CAdminCA.cpp
+  CAdminFF.cpp
+  CAdminPH.cpp
+  CCard.cpp
+  cardFactory.cpp
+  CCardClass1.cpp
+  CCardClass2.cpp
+  CCardClass3.cpp
+  CO2402_Assessment.cpp
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(42,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(192,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(246,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(291,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(379,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(390,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(513,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(568,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(618,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(657,74): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(685,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\CO2402_Assessment.cpp(697,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CPlayers.cpp
+  CStudent.cpp
+  CStudentIP.cpp
+  Generating Code...
+D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\test1\cardFactory.cpp(75): warning C4715: 'NewCard': not all control paths return a value
+  test1.vcxproj -> D:\Other badu\Git projects\Projects\Advanced Programming(Y2)\x64\Debug\CO2402_Assessment.exe

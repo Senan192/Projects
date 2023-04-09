@@ -1,0 +1,5 @@
+1 one one 5 3 
+1 two two 4 2 
+2 thre tyre 2 3 
+2 fur fur 4 7 
+2 fiv fiv 1 2 3 
