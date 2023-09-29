@@ -5,3 +5,6 @@ MS SQL for the database
 
 The app can be viewed by running the fe and be.
 I used a local server for the database so data cannot be loaded when using the app on another machine
+
+Link for presentation for the application;
+https://www.canva.com/design/DAFpz93SNM0/9pyxMlzqye9RZk9SV9qjPA/edit?utm_content=DAFpz93SNM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
