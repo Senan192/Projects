@@ -1,0 +1,18 @@
+Advanced Programming
+Assignment for 2nd year module, this is a card game.
+The game has 2 players, each with various cards with different functions. 
+Different cards and their functions have been coded using OOP concepts such as polymorphism and inheritance.
+The game plays automatically when the code is executed. Output is shown in the terminal
+
+Computational Thinking
+This is a Python program in which we code various sorting algorithms to test which ones are fast and which ones are slow
+
+Mobile Development
+A mobile application made using the Flutter framework using Dart
+This a movie application, much like the IMDB app.
+The app uses an API to load movie details and the user can add review movies, add to favorites etc
+
+Software Development
+This is a smart building app in which the users can control various systems of the building like opening, closing and locking doors, windows etc
+There are also test cases for each of these functions.
+I've written 84 test cases.
