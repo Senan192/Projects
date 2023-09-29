@@ -1,0 +1,7 @@
+This is a full stack inventory management system application made using,
+Angular for the front-end
+.net core web API for the backend
+MS SQL for the database
+
+The app can be viewed by running the fe and be.
+I used a local server for the database so data cannot be loaded when using the app on another machine

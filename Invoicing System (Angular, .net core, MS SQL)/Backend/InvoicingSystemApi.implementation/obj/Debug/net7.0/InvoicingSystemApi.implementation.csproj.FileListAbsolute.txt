@@ -1,0 +1,12 @@
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.csproj.AssemblyReference.cache
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.AssemblyInfoInputs.cache
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.AssemblyInfo.cs
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.csproj.CoreCompileInputs.cache
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\bin\Debug\net7.0\InvoicingSystemApi.implementation.deps.json
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\bin\Debug\net7.0\InvoicingSystemApi.implementation.dll
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\bin\Debug\net7.0\InvoicingSystemApi.implementation.pdb
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.dll
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\refint\InvoicingSystemApi.implementation.dll
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\InvoicingSystemApi.implementation.pdb
+D:\SE\Scienter Training\web api\InvoicingSystemAPI\InvoicingSystemApi.implementation\obj\Debug\net7.0\ref\InvoicingSystemApi.implementation.dll

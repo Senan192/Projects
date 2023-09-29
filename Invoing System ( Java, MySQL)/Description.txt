@@ -1,0 +1,3 @@
+An inventory management system made using Java and MySQL.
+Uses the terminal for output.
+Used MVC achitechture

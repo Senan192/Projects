@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuildingTests\\SmartBuildingTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuildingTests\\SmartBuildingTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuildingTests\\SmartBuildingTests.csproj",
+        "projectName": "SmartBuildingTests",
+        "projectPath": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuildingTests\\SmartBuildingTests.csproj",
+        "packagesPath": "C:\\Users\\Senan1402\\.nuget\\packages\\",
+        "outputPath": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuildingTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Senan1402\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\SmartBuilding.csproj": {
+                "projectPath": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\SmartBuilding.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\SmartBuilding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\SmartBuilding.csproj",
+        "projectName": "SmartBuilding",
+        "projectPath": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\SmartBuilding.csproj",
+        "packagesPath": "C:\\Users\\Senan1402\\.nuget\\packages\\",
+        "outputPath": "D:\\Other badu\\Git projects\\Projects\\Software Development(Y2)\\SmartBuilding\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Senan1402\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
